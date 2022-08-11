@@ -8,10 +8,10 @@
 
 A **switch statement** is multiway branch that is more efficient than nested
 `if` statements in that it can have multiple execution paths. To help understand
-more what goes into a switch statement, let us look at the syntax:
+more about what goes into a switch statement, let us look at the syntax:
 
 ```java
-switch(expression) {
+switch (expression) {
         // case statements
         // values must be the same data type as the expression
         case value1:
@@ -72,7 +72,7 @@ Now let us use a `switch` instead of the if-else-if cascade:
 
 ```java
 char grade = 'B';
-switch(grade) {
+switch (grade) {
     case 'A':
         System.out.println("Wow! You got an A!");
         break;
