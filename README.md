@@ -6,7 +6,7 @@
 
 ## What is a Switch Statement?
 
-A **switch statement** is multiway branch that is more efficient than nested
+A **switch statement** is a multiway branch that is more efficient than nested
 `if` statements in that it can have multiple execution paths. To help understand
 more about what goes into a switch statement, let us look at the syntax:
 
